@@ -1,6 +1,6 @@
 ---
 name: Metriun
-version: 0.0.1
+version: 1.0.0
 main: Metriun\Loader
 api: 5.0.0
 src-namespace-prefix: Metriun
